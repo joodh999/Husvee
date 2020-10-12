@@ -7,6 +7,8 @@ body {
   text-align: center;
   font-family: "Open Sans", "Helvetica Neue", sans-serif;
   padding-top: 19vh;
+
+  color: rgb(70, 70, 70);
 }
 
 img {
@@ -17,9 +19,10 @@ img {
 }
 
 .quote {
-  font-size: 1.1rem;
-  font-weight: 9005;
+  font-size: 1rem;
+  font-weight: 500;
   margin-top: 30px;
+  margin-bottom: 15px;
 }
 
 .contect {
@@ -35,10 +38,16 @@ img {
 
 a {
   text-decoration: none;
-  color: #3e403e;
+  color: rgb(70, 70, 70);
 }
 
 .phoneNO {
+  font-weight: 100;
+  font-variant-numeric: normal;
+  font-size: 1.4rem;
+}
+
+.ibay {
   font-weight: 100;
   font-variant-numeric: normal;
   font-size: 1.4rem;
