@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  text-align: center;
+  font-family: "Open Sans", "Helvetica Neue", sans-serif;
+  padding-top: 19vh;
+}
+
+img {
+  margin-left: auto;
+  margin-right: auto;
+  width: 270px;
+  border-radius: 100%;
+}
+
+.quote {
+  font-size: 1.1rem;
+  font-weight: 9005;
+  margin-top: 30px;
+}
+
+.contect {
+  margin: 1px;
+  padding: 0;
+  font-size: 2rem;
+  margin: 10px;
+}
+
+.contect i {
+  margin: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: #3e403e;
+}
+
+.phoneNO {
+  font-weight: 100;
+  font-variant-numeric: normal;
+  font-size: 1.4rem;
+}
